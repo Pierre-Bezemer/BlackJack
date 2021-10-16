@@ -1,7 +1,7 @@
 # BlackJack
 My First Public Project after learning the basics of Python
 
-My end goal: Making my first working game in Python which requests user input
+My end goal: Creating my first working game in Python which requests user input
 
 My sub Goals:
 - learning how to make a project using Git and GitHub
